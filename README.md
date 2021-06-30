@@ -5,6 +5,12 @@
 
 ## Results
 
+### 2017 Stock Performance
+
+
+### 2018 Stock Performance
+
+
 ## Summary 
 - [Summarize comparison of stock performance between 2017 and 2018.]
 - [Execution times of original script vs refactored script.]
