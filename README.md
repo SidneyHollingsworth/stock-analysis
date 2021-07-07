@@ -15,7 +15,8 @@
 ![2018 Stock Performance](https://github.com/SidneyHollingsworth/stock-analysis/blob/25b17ab3936763aef25b6272921894b605eb7514/Resources/VBA_Challenge_2018.png "Text to show on mouseover")
 
 ## Summary 
-![Year to Year Comparison](https://github.com/SidneyHollingsworth/stock-analysis/blob/d5b111281360dc99cb4d92b836703d19c9205ea8/Resources/Change_Over_Year.png)
+![Year to Year Comparison](https://github.com/SidneyHollingsworth/stock-analysis/blob/9109ce69a379c311f4d056e98677b30e8ad9e2fc/Resources/Change_Over_Year.png)
+
 - [Summarize comparison of stock performance between 2017 and 2018.]
 - [Execution times of original script vs refactored script.]
 
