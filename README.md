@@ -15,21 +15,28 @@
 ![2018 Stock Performance](https://github.com/SidneyHollingsworth/stock-analysis/blob/0ca17f30b627400ccf14fad89a18d47471a4f2f6/Resources/VBA_Challenge_2018_Output.png)
 
 ## Summary 
+
+#### Year to Year Comparison
 ![Year to Year Comparison](https://github.com/SidneyHollingsworth/stock-analysis/blob/0ca17f30b627400ccf14fad89a18d47471a4f2f6/Resources/Change_Over_Year.png)
 
 - [Summarize comparison of stock performance between 2017 and 2018.]
-- [Execution times of original script vs refactored script.]
 
-#### 2017 Starting Run Time
+#### Execution times of original script vs refactored script
+
+Refactoring the VBA All Stocks Analysis script sped up run time for 2017 more than 2018.
+- Original run time for 2017 was 0.1328125 seconds. Refactoring sped up 2017 run time by 0.0548125 seconds. (Screenshots below)
+- Orginal run time for 2018 was 0.1015625 seconds. Refactoring sped up 2018 run time by 0.0155625 seconds. (Screenshots below)
+
+##### 2017 Starting Run Time
 ![2017 Starting Run Time](https://github.com/SidneyHollingsworth/stock-analysis/blob/0ca17f30b627400ccf14fad89a18d47471a4f2f6/Resources/2017_Starting_Run_Time.png)
 
-#### 2018 Starting Run Time
+##### 2018 Starting Run Time
 ![2018 Starting Run Time](https://github.com/SidneyHollingsworth/stock-analysis/blob/0ca17f30b627400ccf14fad89a18d47471a4f2f6/Resources/2018_Starting_run_time.png)
 
-#### 2017 Refactored Run Time
+##### 2017 Refactored Run Time
 ![2017 Refactored Run Time](https://github.com/SidneyHollingsworth/stock-analysis/blob/0ca17f30b627400ccf14fad89a18d47471a4f2f6/Resources/VBA_Challenge_2017.png)
 
-#### 2018 Refactored Run Time
+##### 2018 Refactored Run Time
 ![2018 Refactored Run Time](https://github.com/SidneyHollingsworth/stock-analysis/blob/0ca17f30b627400ccf14fad89a18d47471a4f2f6/Resources/VBA_Challenge_2018.png)
 
 ### Advantages and Disadvantages of Refactoring Code
