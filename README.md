@@ -9,28 +9,28 @@
 ## Results
 
 ### 2017 Stock Performance
-![2017 Stock Performance](https://github.com/SidneyHollingsworth/stock-analysis/blob/25b17ab3936763aef25b6272921894b605eb7514/Resources/VBA_Challenge_2017.png "Text to show on mouseover")
+![2017 Stock Performance](https://github.com/SidneyHollingsworth/stock-analysis/blob/0ca17f30b627400ccf14fad89a18d47471a4f2f6/Resources/VBA_Challenge_2017_Output.png)
 
 ### 2018 Stock Performance
-![2018 Stock Performance](https://github.com/SidneyHollingsworth/stock-analysis/blob/25b17ab3936763aef25b6272921894b605eb7514/Resources/VBA_Challenge_2018.png "Text to show on mouseover")
+![2018 Stock Performance](https://github.com/SidneyHollingsworth/stock-analysis/blob/0ca17f30b627400ccf14fad89a18d47471a4f2f6/Resources/VBA_Challenge_2018_Output.png)
 
 ## Summary 
-![Year to Year Comparison](https://github.com/SidneyHollingsworth/stock-analysis/blob/9109ce69a379c311f4d056e98677b30e8ad9e2fc/Resources/Change_Over_Year.png)
+![Year to Year Comparison](https://github.com/SidneyHollingsworth/stock-analysis/blob/0ca17f30b627400ccf14fad89a18d47471a4f2f6/Resources/Change_Over_Year.png)
 
 - [Summarize comparison of stock performance between 2017 and 2018.]
 - [Execution times of original script vs refactored script.]
 
 #### 2017 Starting Run Time
-![2017 Starting Run Time](https://github.com/SidneyHollingsworth/stock-analysis/blob/9c4aa88e392d525870bfbc203cdb894f78eda59b/Resources/2017_Starting_Run_Time.png)
+![2017 Starting Run Time](https://github.com/SidneyHollingsworth/stock-analysis/blob/0ca17f30b627400ccf14fad89a18d47471a4f2f6/Resources/2017_Starting_Run_Time.png)
 
 #### 2018 Starting Run Time
-![2018 Starting Run Time](https://github.com/SidneyHollingsworth/stock-analysis/blob/9c4aa88e392d525870bfbc203cdb894f78eda59b/Resources/2018_Starting_run_time.png)
+![2018 Starting Run Time](https://github.com/SidneyHollingsworth/stock-analysis/blob/0ca17f30b627400ccf14fad89a18d47471a4f2f6/Resources/2018_Starting_run_time.png)
 
 #### 2017 Refactored Run Time
-![2017 Refactored Run Time](https://github.com/SidneyHollingsworth/stock-analysis/blob/9c4aa88e392d525870bfbc203cdb894f78eda59b/Resources/VBA_Challenge_2017.png)
+![2017 Refactored Run Time](https://github.com/SidneyHollingsworth/stock-analysis/blob/0ca17f30b627400ccf14fad89a18d47471a4f2f6/Resources/VBA_Challenge_2017.png)
 
 #### 2018 Refactored Run Time
-![2018 Refactored Run Time](https://github.com/SidneyHollingsworth/stock-analysis/blob/9c4aa88e392d525870bfbc203cdb894f78eda59b/Resources/VBA_Challenge_2018.png)
+![2018 Refactored Run Time](https://github.com/SidneyHollingsworth/stock-analysis/blob/0ca17f30b627400ccf14fad89a18d47471a4f2f6/Resources/VBA_Challenge_2018.png)
 
 ### Advantages and Disadvantages of Refactoring Code
 - [Explination in general]
