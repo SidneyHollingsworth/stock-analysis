@@ -15,7 +15,7 @@ This project came about from a need to review stock performance and further, ref
 ## Summary 
 
 #### Year to Year Comparison
-![Year to Year Comparison](https://github.com/SidneyHollingsworth/stock-analysis/blob/0ca17f30b627400ccf14fad89a18d47471a4f2f6/Resources/Change_Over_Year.png)
+![Year to Year Comparison](https://github.com/SidneyHollingsworth/stock-analysis/blob/5386966c36c3546338fca4205506c2897c8285e2/Resources/Change_Over_Year.png)
 
 - [Summarize comparison of stock performance between 2017 and 2018.]
 
