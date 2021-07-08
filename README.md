@@ -1,9 +1,8 @@
 # VBA Stock Analysis
 
 ## Overview of Project
-- [State purpose and background]
-- Background: Reviewing stock performance
-- Objective: In anticipation of increasing number of stocks analysing from a dozen to thousands, I was also asked to refactor the code in order to reduce run time. 
+I've been given the task of reviewing stock performance of twelve green energy stocks. Rather than tabulating x and y manually, I've been provided starter code for a VBA script. However, in anticipation of increasing the number of stocks to analysing from a dozen to thousands, I've been additionally asked to refactor the code in order to reduce run time. 
+
 - This project came about from a need to review stock performance and further, refactor the code to reduce run time. 
 
 ## Results
