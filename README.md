@@ -20,6 +20,18 @@
 - [Summarize comparison of stock performance between 2017 and 2018.]
 - [Execution times of original script vs refactored script.]
 
+#### 2017 Starting Run Time
+![2017 Starting Run Time](https://github.com/SidneyHollingsworth/stock-analysis/blob/9c4aa88e392d525870bfbc203cdb894f78eda59b/Resources/2017_Starting_Run_Time.png)
+
+#### 2018 Starting Run Time
+![2018 Starting Run Time](https://github.com/SidneyHollingsworth/stock-analysis/blob/9c4aa88e392d525870bfbc203cdb894f78eda59b/Resources/2018_Starting_run_time.png)
+
+#### 2017 Refactored Run Time
+![2017 Refactored Run Time](https://github.com/SidneyHollingsworth/stock-analysis/blob/9c4aa88e392d525870bfbc203cdb894f78eda59b/Resources/VBA_Challenge_2017.png)
+
+#### 2018 Refactored Run Time
+![2018 Refactored Run Time](https://github.com/SidneyHollingsworth/stock-analysis/blob/9c4aa88e392d525870bfbc203cdb894f78eda59b/Resources/VBA_Challenge_2018.png)
+
 ### Advantages and Disadvantages of Refactoring Code
 - [Explination in general]
 - [How pro/cons apply to project. Example of advantages and dissavantages of refactoring original and refactored VBA script.]
