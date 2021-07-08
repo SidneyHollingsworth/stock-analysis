@@ -1,4 +1,4 @@
-# stock-analysis
+# VBA Stock Analysis
 
 ## Overview of Project
 - [State purpose and background]
