@@ -25,6 +25,9 @@ Refactoring the VBA All Stocks Analysis script sped up run time for 2017 more th
 - Original run time for 2017 was 0.1328125 seconds. Refactoring sped up 2017 run time by 0.0548125 seconds. (Screenshots below)
 - Orginal run time for 2018 was 0.1015625 seconds. Refactoring sped up 2018 run time by 0.0155625 seconds. (Screenshots below)
 
+How I refactored the VBA code: The main gain in speeding up run time was by using manual calculation rather than automatic. Another piece was doing away with worksheet.activate.
+
+
 ##### 2017 Starting Run Time
 ![2017 Starting Run Time](https://github.com/SidneyHollingsworth/stock-analysis/blob/0ca17f30b627400ccf14fad89a18d47471a4f2f6/Resources/2017_Starting_Run_Time.png)
 
@@ -38,8 +41,16 @@ Refactoring the VBA All Stocks Analysis script sped up run time for 2017 more th
 ![2018 Refactored Run Time](https://github.com/SidneyHollingsworth/stock-analysis/blob/0ca17f30b627400ccf14fad89a18d47471a4f2f6/Resources/VBA_Challenge_2018.png)
 
 ### Advantages and Disadvantages of Refactoring Code
-There are advantages and disadvantages to refactoring code. Generalized examples include X and Y. In regard to this project, the hours I spent refactoring the All Stock Analysis VBA code only saved a partial second of run time.
+There are advantages and disadvantages to refactoring code. 
 
-- The main gain was by using manual calculation rather than automatic. The other piece is doing away with worksheet.activate.
+##### Generalized potential advantages of refactoring include:
+- Faster run times
+- Using less memory
+
+##### Generalized potential disadvantages of refactoring include:
+- Over complicating code
+- Increased opportunity for bugs
+
+In regard to this project, the hours I spent refactoring the All Stock Analysis VBA code was not as advantagous as it only saved a partial second of run time.
 
 
