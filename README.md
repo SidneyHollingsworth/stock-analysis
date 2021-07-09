@@ -17,7 +17,7 @@ This project came about from a need to review stock performance and further, ref
 #### Year to Year Comparison
 ![Year to Year Comparison](https://github.com/SidneyHollingsworth/stock-analysis/blob/5386966c36c3546338fca4205506c2897c8285e2/Resources/Change_Over_Year.png)
 
-- [Summarize comparison of stock performance between 2017 and 2018.]
+Highlights:
 - 2017 had better returns than 2018. 
 - Only two stocks had positive returns in 2017 and 2018, ENPH and RUN.
 
